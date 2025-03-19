@@ -76,12 +76,15 @@
     font-size: 1rem;
   }
   .skills-sub-title {
-    font-size: 1.25rem;
+    font-size: 1rem;
+    text-align: left;
   }
-  #skills.about-containers {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  article h3 {
+    font-size: 0.5rem;
+    text-align: left;
+  }
+  article img {
+    size: 0.5rem;
   }
   .logo {
     font-size: 1.5rem;
