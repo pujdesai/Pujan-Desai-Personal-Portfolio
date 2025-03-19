@@ -79,12 +79,14 @@
     font-size: 1rem;
     text-align: left;
   }
+  #skills.skills-details-container {
+    justify-content: left;
+  }
   article h3 {
-    font-size: 0.5rem;
-    text-align: left;
+    font-size: 1rem;
   }
   article img {
-    size: 0.5rem;
+    height: 1rem;
   }
   .logo {
     font-size: 1.5rem;
