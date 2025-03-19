@@ -78,6 +78,10 @@
   .skills-sub-title {
     font-size: 1.25rem;
   }
+  .skills-details-container {
+    flex-direction: column;
+    align-items: center;
+  }
   .logo {
     font-size: 1.5rem;
   }
