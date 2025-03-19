@@ -757,25 +757,25 @@ section {
 
 .about-pic-animation {
   visibility: hidden;
-  animation: fade-in-left 0.85s linear forwards;
+  animation: fade-in-left 0.95s linear forwards;
   animation-delay: 1s;
 }
 
 .about-detail1-animation {
   visibility: hidden;
-  animation: fade-in-right 0.85s linear forwards, bounce2 2s ease forwards;
-  animation-delay: 1s, 1.85s;
+  animation: fade-in-right 0.95s linear forwards, bounce2 2s ease forwards;
+  animation-delay: 1s, 1.95s;
 }
 
 .about-detail2-animation {
   visibility: hidden;
-  animation: fade-in-right 0.85s linear forwards, bounce2 2s ease forwards;
-  animation-delay: 1s, 1.85s;
+  animation: fade-in-right 0.95s linear forwards, bounce2 2s ease forwards;
+  animation-delay: 1s, 1.95s;
 }
 
 .about-text-animation {
   visibility: hidden;
-  animation: fade-in-right 0.85s linear forwards;
+  animation: fade-in-right 0.95s linear forwards;
   animation-delay: 1s;
 }
 
