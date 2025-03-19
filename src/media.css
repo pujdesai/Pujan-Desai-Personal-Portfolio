@@ -12,7 +12,7 @@
   }
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1395px) {
   #desktop-nav {
     display: none;
   }
@@ -74,6 +74,9 @@
   .contact-info-container p,
   .nav-links li a {
     font-size: 0.75rem;
+  }
+  .contact-info-container {
+    margin-right: 1rem;
   }
   .skills-sub-title {
     font-size: 0.6rem;
