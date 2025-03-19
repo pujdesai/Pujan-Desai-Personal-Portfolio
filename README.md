@@ -21,4 +21,4 @@ This single-page application (SPA) includes the following key sections:
 
 ## Link
 
-You can visit my personal portfolio website at this link: [pujan-portfolio.vercel.app](pujan-portfolio.vercel.app). Enjoy!
+You can visit my personal portfolio website at the link in the description. Enjoy!
