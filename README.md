@@ -1,12 +1,24 @@
-# React + Vite
+# Pujan Desai Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! This website is built using **React** and **Vite**, featuring a modern, responsive design with smooth animations and an engaging user experience. The portfolio showcases my skills, projects, and professional background as a Software Developer and Graphic Designer.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This single-page application (SPA) includes the following key sections:
 
-## Expanding the ESLint configuration
+- **Profile:** An introduction featuring my profile picture, name, and a brief tagline.
+- **About:** A detailed overview of my background, education, and experience, enhanced with dynamic animations.
+- **Skills:** A comprehensive list of my technical proficiencies, including frontend, backend, and data science & machine learning skills.
+- **Projects:** A showcase of my recent projects with interactive demo images and GitHub links.
+- **Contact:** A section where visitors can reach out to me via email or LinkedIn.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- **Smooth, Custom Animations:** Each section features unique animations (e.g., fade, slide, bounce, and more) to create a layered and intriguing visual experience.
+- **Responsive Design:** Optimized for all devices, ensuring a seamless experience on desktops, tablets, and mobile phones.
+- **Modern Tech Stack:** Developed with React for building reusable components and Vite for fast development and optimized production builds.
+- **Easy Deployment:** Automatically deployed on Vercel, making updates simple and quick.
+
+## Link
+
+You can visit my personal portfolio website at this link: [pujan-portfolio.vercel.app](pujan-portfolio.vercel.app). Enjoy!
