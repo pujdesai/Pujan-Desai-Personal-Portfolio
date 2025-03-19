@@ -77,10 +77,6 @@
   }
   .skills-sub-title {
     font-size: 0.6rem;
-    text-align: left;
-  }
-  #skills.details-container {
-    justify-content: left;
   }
   article h3 {
     font-size: 0.35rem;
